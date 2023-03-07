@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Mapear cenários de testes",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Criar scripts de Testes",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Execução de testes",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Reports de execução de testes",
+        "is_done": false
+    }
+}
